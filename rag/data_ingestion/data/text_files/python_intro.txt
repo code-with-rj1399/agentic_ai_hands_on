@@ -1,0 +1,19 @@
+
+Python is a high-level, general-purpose programming language known for its
+simple syntax and readability. It is widely used for web development,
+automation, data analysis, machine learning, and scripting.
+
+Python uses dynamic typing and supports multiple programming paradigms,
+including object-oriented, functional, and procedural programming.
+
+Some commonly used Python data structures are lists, tuples, sets, and
+dictionaries. Python also provides powerful features such as list
+comprehensions, generators, decorators, context managers, and exception
+handling.
+
+Python manages dependencies using tools such as pip, uv, and Poetry.
+Virtual environments are commonly used to isolate project dependencies.
+
+A typical Python application can be organized into modules and packages.
+The __name__ == "__main__" pattern is commonly used to define code that
+should execute when a Python file is run directly.

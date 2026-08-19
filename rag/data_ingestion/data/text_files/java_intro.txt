@@ -1,0 +1,21 @@
+
+Java is a statically typed, object-oriented programming language widely used
+for backend services, enterprise applications, Android development, and
+distributed systems.
+
+Java applications run on the Java Virtual Machine (JVM), which provides
+platform independence. Java source code is compiled into bytecode, which is
+then executed by the JVM.
+
+Important Java concepts include classes, objects, inheritance, interfaces,
+polymorphism, encapsulation, and abstraction.
+
+The Java Collections Framework provides commonly used data structures such
+as ArrayList, LinkedList, HashMap, HashSet, Queue, and PriorityQueue.
+
+Modern Java versions provide features such as lambda expressions, streams,
+records, pattern matching, and virtual threads.
+
+Spring Boot is a popular framework for building Java backend applications.
+It simplifies configuration and provides features for creating REST APIs,
+microservices, database applications, and production-ready services.

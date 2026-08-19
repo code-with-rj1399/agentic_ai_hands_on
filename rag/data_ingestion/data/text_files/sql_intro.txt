@@ -1,0 +1,21 @@
+
+SQL, or Structured Query Language, is used to interact with relational
+databases. It can be used to create tables, insert data, query records,
+update existing data, and delete records.
+
+A SELECT statement retrieves data from one or more tables. The WHERE clause
+filters rows based on a condition, while ORDER BY sorts the result.
+
+SQL JOIN operations combine data from multiple tables. Common join types
+include INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN.
+
+GROUP BY is used to group rows and perform aggregate calculations such as
+COUNT, SUM, AVG, MIN, and MAX. The HAVING clause filters grouped results.
+
+Indexes improve query performance by allowing the database to locate rows
+more efficiently. However, indexes also consume storage and can increase
+the cost of INSERT, UPDATE, and DELETE operations.
+
+Transactions provide atomicity and consistency when multiple database
+operations need to succeed or fail together. Common transaction concepts
+include COMMIT, ROLLBACK, isolation levels, and ACID properties.
