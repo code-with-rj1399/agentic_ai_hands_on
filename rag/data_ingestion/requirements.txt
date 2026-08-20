@@ -4,3 +4,7 @@ langchain-community
 pypdf
 pymupdf
 tqdm
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+chromadb
